@@ -4,7 +4,6 @@
 
 
 
-**
 
 En estos subgráficos, se muestra diferentes variables relacionados con la actividad en el subreddit r/RepublicadeChile
 
@@ -29,7 +28,6 @@ Esto sugiere que las publicaciones en la categoría “top” logran captar la m
 
 ![temporal](graficos/temporal.png)
 
-**
 
 * En el gráfico superior se muestra la puntuación por días de la semana en donde cada caja representa la distribución de las evaluaciones de las publicaciones según el día de la semana. Observamos que los puntajes de las publicaciones tienden a ser similares durante la semana, con puntajes más altos algunos días como miércoles y viernes , donde hay más variabilidad y publicaciones con puntajes muy altos.
   
