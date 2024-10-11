@@ -10,7 +10,7 @@ Debido al tamaño del archivo principal con el que se trabajó, este no estará 
 
 ## **Análisis de Distribuciones**
 
-
+![grafico](graficos/distribuciones.png)
 
 
 En estos subgráficos, se muestra diferentes variables relacionados con la actividad en el subreddit r/RepublicadeChile
@@ -30,7 +30,7 @@ En estos subgráficos, se muestra diferentes variables relacionados con la activ
   * La categoría controversial tiene calificaciones más bajas y menos variabilidad, indicando que estas publicaciones generan menos interés a pesar de la polarización que pueden crear.
     
 
-Esto sugiere que las publicaciones en la categoría “top” logran captar la mayor                   atención, mientras que las publicaciones controversiales no siempre generan tanto engagement como cabría esperar. Esto podría deberse a que las publicaciones top tienden a ser más relevantes para la comunidad, mientras que las controversiales podrían ser ignoradas o divisivas.
+Esto sugiere que las publicaciones en la categoría “top” logran captar la mayor atención, mientras que las publicaciones controversiales no siempre generan tanto engagement como cabría esperar. Esto podría deberse a que las publicaciones top tienden a ser más relevantes para la comunidad, mientras que las controversiales podrían ser ignoradas o divisivas.
 
 ## Análisis temporal
 
