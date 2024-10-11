@@ -1,5 +1,13 @@
 # Trabajo_2_analitica_descriptiva
 
+Integrantes: 
+* Diego Santibañez
+* Oscar Martinez
+
+Debido al tamaño del archivo principal con el que se trabajó, este no estará disponible en este repositorio pero se puede encontrar en el siguiente [link](https://drive.google.com/file/d/1iPzFuoqFbbNPh21eGHBgukvHiFGkQPBB/view?usp=sharing
+
+
+
 ## **Análisis de Distribuciones**
 
 
